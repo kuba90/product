@@ -1,0 +1,12 @@
+{
+    "products": "List products",
+    "titleProducts": "Title product",
+    "descriptionProducts": "Description product",
+    "imageProducts": "Image product",
+    "saveBtn": "Save",
+    "addProduct": "Add product",
+    "editProduct": "Edit product",
+    "removeProduct": "Are you sure you want to remove?",
+    "yes": "Yes",
+    "no": "No"
+}

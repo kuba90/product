@@ -1,0 +1,13 @@
+{  
+    "products": "Список товаров",
+    "titleProducts": "Название товара",
+    "descriptionProducts": "Описание товара",
+    "imageProducts": "Изображение товара",
+    "saveBtn": "Сохранить",
+    "addProduct": "Добавить товар",
+    "editProduct": "Изменить товар",
+    "removeProduct": "Вы точно хотите удалить?",
+    "yes": "Да",
+    "no": "Нет"
+    
+}
